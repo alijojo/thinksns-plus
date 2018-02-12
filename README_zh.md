@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/zhiyicx/thinksns-plus"><img src="https://img.shields.io/packagist/v/zhiyicx/thinksns-plus.svg"></a>
 </p>
 
-## 关于 ThinkSNS+
+## 关于 ThinkSNS++
 
 [View english README](readme.md)
 
@@ -17,14 +17,14 @@ ThinkSNS+ 是基于 Laravel 开发的一个用户生态基础框架系统，支�
 
 > 欢迎访问官网：[http://www.thinksns.com](http://www.thinksns.com) 了解我们产品和团队。
 
-## ThinkSNS+ 文档
+## ThinkSNS++ 文档
 
 [docs](docs)
 
 > 文档中详细的讲述了关于 ThinkSNS+ 的大部分内容，你可以随时查看。
 > 其中包含了「APIs」、「后台」、「应用开发」等。
 
-## 安装 ThinkSNS+
+## 安装 ThinkSNS++
 
 所有安装说明均在 ThinkSNS+ 文档，[安装](docs/zh-CN/get-started/installed.md) 中进行了详细说明。
 
